@@ -1,3 +1,49 @@
 h1{
     color: #ff0000;
 }
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    margin: 40px;
+    padding: 20px;
+    border: 5px solid #ff0000;
+}
+h2{
+    text-align: center;
+}
+ol, ul {
+    width: fit-content;
+    margin-inline: auto;
+}
+ol{
+    text-align: center;
+    
+}
+li{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
